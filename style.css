@@ -150,6 +150,10 @@ section {
   margin: 0 0.3rem;
   transition: background-color 0.3s;
 }
+
+.circle-1 {
+  background-color: #ddd;
+}
 /* End of Progress Bar */
 
 /* Section 1 */
@@ -241,6 +245,7 @@ section {
 /* Section 3 */
 .section-3 {
   z-index: 30;
+  background-color: #000;
 }
 .section-3-wrapper {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)),
@@ -249,6 +254,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: opacity 1.5s;
 }
 
 .section-3-heading {
