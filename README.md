@@ -9,9 +9,7 @@ The 9th project from a Udemy course called 10 Mega Responsive Websites. The Wine
 ## Table of Contents
 
 [Technologies](#technologies)<br>
-
-<!-- [Usage](#usage)<br> -->
-
+[Usage](#usage)<br>
 [Credits](#credits)<br>
 [Questions](#questions)<br>
 
@@ -23,13 +21,11 @@ The 9th project from a Udemy course called 10 Mega Responsive Websites. The Wine
 - CSS
 - JavaScript
 
-<!-- ## Usage
+## Usage
 
-![](/images/screencast.gif) -->
+<!-- ![](/images/screencast.gif) -->
 
 ## Credits
-
-tilt.js in Team Section
 
 ## Questions :question:
 
