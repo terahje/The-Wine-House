@@ -2,7 +2,7 @@
 
 ## Description
 
-The 9th project from a Udemy course called 10 Mega Responsive Websites. The Wine-House was a great project to work on javascript, utilizing the scroll wheel to scroll between the pages instead of moving the page down. It is also utilized to progress through the progression bar, along with allowing the arrows to move the pages as well.
+The Wine-House was a great project to work on javascript, utilizing the scroll wheel to scroll between the pages instead of moving the page down. It is also utilized to progress through the progression bar, along with allowing the arrows to move the pages as well.
 
 [Link to deployed Website](https://terahje.github.io/The-Wine-House/)
 
